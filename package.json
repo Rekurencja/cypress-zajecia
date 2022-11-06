@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Proud-Media/cypress-zajecia/issues"
   },
-  "homepage": "https://github.com/Proud-Media/cypress-zajecia#readme"
+  "homepage": "https://github.com/Proud-Media/cypress-zajecia#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
 }
